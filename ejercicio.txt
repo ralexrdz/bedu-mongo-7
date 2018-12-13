@@ -1,0 +1,13 @@
+# Ejercio
+
+programa js que haga:
+
+- borre todas las colecciones
+- agrega usuarios de prueba 
+- agrega productos de prueba
+- busqueda que regrese nombre de usuario 
+  y tipo de productos favoritos
+  {
+    name: 'Ralex',
+    tipoDeProductos: ['candy', 'drink']
+  }
